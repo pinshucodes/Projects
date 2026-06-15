@@ -1,3 +1,13 @@
+# Ignore IDE files, build artifacts, and executables
+.vscode/
+*.exe
+*.o
+*.obj
+build/
+bin/
+*.log
+*.tmp
+.DS_Store
 # Object file
 *.o
 
